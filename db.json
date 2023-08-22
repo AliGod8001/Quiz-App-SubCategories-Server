@@ -1,0 +1,164 @@
+{
+  "sub-categories": [
+    {
+      "category_id": 201,
+      "id": 301,
+      "creationDate": 1692078119357,
+      "modificationDate": null,
+      "title": "Ancient Civilizations",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1101
+    },
+    {
+      "category_id": 201,
+      "id": 302,
+      "creationDate": 1692078119357,
+      "modificationDate": null,
+      "title": "World Wars",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1102
+    },
+    {
+      "category_id": 201,
+      "id": 303,
+      "creationDate": 1692078119357,
+      "modificationDate": null,
+      "title": "Famous Historical Figures",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1103
+    },
+    {
+      "category_id": 201,
+      "id": 304,
+      "creationDate": 1692078119357,
+      "modificationDate": null,
+      "title": "Historical Events and Dates",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1104
+    },
+    {
+      "category_id": 202,
+      "id": 305,
+      "creationDate": 1692083252337,
+      "modificationDate": null,
+      "title": "Inventors and Inventions",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1105
+    },
+    {
+      "category_id": 202,
+      "id": 306,
+      "creationDate": 1692083252337,
+      "modificationDate": null,
+      "title": "Space Exploration",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1106
+    },
+    {
+      "category_id": 202,
+      "id": 307,
+      "creationDate": 1692083252337,
+      "modificationDate": null,
+      "title": "Famous Scientists",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1107
+    },
+    {
+      "category_id": 202,
+      "id": 308,
+      "creationDate": 1692083252337,
+      "modificationDate": null,
+      "title": "Modern Technologies",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1108
+    },
+    {
+      "category_id": 203,
+      "id": 309,
+      "creationDate": 1692084730096,
+      "modificationDate": null,
+      "title": "Football (Soccer)",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1109
+    },
+    {
+      "category_id": 203,
+      "id": 310,
+      "creationDate": 1692084730096,
+      "modificationDate": null,
+      "title": "Basketball",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1110
+    },
+    {
+      "category_id": 203,
+      "id": 311,
+      "creationDate": 1692084730096,
+      "modificationDate": null,
+      "title": "Cricket",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1111
+    },
+    {
+      "category_id": 203,
+      "id": 312,
+      "creationDate": 1692084730096,
+      "modificationDate": null,
+      "title": "Tennis",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1112
+    },
+    {
+      "category_id": 204,
+      "id": 313,
+      "creationDate": 1692084730096,
+      "modificationDate": null,
+      "title": "Michael Jordan",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1113
+    },
+    {
+      "category_id": 204,
+      "id": 314,
+      "creationDate": 1692084730096,
+      "modificationDate": null,
+      "title": "Serena Williams",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1114
+    },
+    {
+      "category_id": 204,
+      "id": 315,
+      "creationDate": 1692084730096,
+      "modificationDate": null,
+      "title": "Usain Bolt",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1115
+    },
+    {
+      "category_id": 204,
+      "id": 316,
+      "creationDate": 1692084730096,
+      "modificationDate": null,
+      "title": "Muhammad Ali",
+      "time": 15,
+      "passCorrectNumber": 10,
+      "questionPackId": 1116
+    }
+  ]
+}
